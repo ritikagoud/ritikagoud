@@ -13,29 +13,6 @@ I'm drawn to problems where the AI component needs to do something specific and 
 
 Most of my projects are full-stack: a Python backend, a Next.js frontend, and an AI layer with defined behavior rather than open-ended generation.
 
-&nbsp;
-
----
-
-&nbsp;
-
-## Current Focus
-
-```yaml
-building:
-  - Multi-agent pipelines for document analysis (Prism)
-  - Symptom tracking systems with rule-based decision logic (Saheli)
-
-learning:
-  - Deep learning fundamentals
-  - AWS cloud infrastructure
-  - API design and service boundaries
-
-exploring:
-  - Retrieval-Augmented Generation (RAG)
-  - LLM application architecture
-  - MLOps basics
-```
 
 &nbsp;
 
