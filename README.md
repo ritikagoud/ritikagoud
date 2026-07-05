@@ -138,7 +138,7 @@ I'm also interested in cases where structured rule-based logic and language mode
 
 ## Contact
 
-If you're working on something where the AI output needs to be reliable rather than just plausible — or if you want to talk about ML, computer vision, or software engineering — I'm reachable on LinkedIn.
+If you're working on something where the AI output needs to be reliable rather than just plausible — or if you want to talk about ML or software engineering — I'm reachable on LinkedIn.
 
 <div align="center">
 
